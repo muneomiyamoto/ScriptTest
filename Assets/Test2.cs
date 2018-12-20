@@ -22,7 +22,10 @@ public class Test2 : MonoBehaviour
         {
             Debug.Log(array[i]);
         }
-
+        for (int i = 4; 0 <=i; i--)
+        {
+            Debug.Log(array[i]);
+        }
     }
 
     // Update is called once per frame
